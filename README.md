@@ -1,4 +1,6 @@
 # IPL-T20-Insights
+![Black Gradient Minimalistic Future Technology YouTube Banner](https://github.com/PreetiGudania/IPL-T20-Insights/assets/156502293/8cb5c196-6f76-4ca9-bfd5-8ec324df6c77)
+
 
 Delve into the thrilling world of the Indian Premier League (IPL) with our comprehensive project that encapsulates the essence of cricket's most celebrated tournament. Titled "IPL Insights," this project provides a fascinating exploration of key elements that define the excitement of each match.
 ![Screenshot 2024-02-02 213146](https://github.com/PreetiGudania/IPL-T20-Insights/assets/156502293/6e08f142-67a8-4f67-8be4-a860f71a0fca)
